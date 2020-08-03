@@ -1,0 +1,32 @@
+Título del proyecto *
+
+
+Based on the videos and the reading material, how would you define a data scientist and data science? (3 marks)
+
+Data Science is a process, not an event. Data Science is the field of exploring, manipulating, and analyzing data, using data answer questions or make recommandations.
+data scientist are people who ask questions to clarify the business need, analyzing the data in different ways. and answering questions. i,e. 
+what data do we need to solve the problem, and where will that data come from?.
+
+
+As discussed in the videos and the reading material, data science can be applied to problems across different industries. 
+What industry are you passionate about and would like to pursue a data science career in? (1 mark)
+
+Artificial Intelligence using neural networks. specifically applying patterns to train in some type of knowledge. i.e speech recognition.
+
+
+Based on the videos and the reading material, what are the ten main components of a report that would be delivered at the end of a data science project? (5 marks
+
+the componentes are cover page, table of contents, executive summary, detailed contents, acknowledgements, references and appendices.
+
+
+Data science is the study of large quantities of data, which can reveal insights that help organizations make strategic choices.
+There are  many paths to a career in data science; most, but not all, involve a little math, a little science, and a lot of curiosity about data.
+New data scientists need to be curious, judgemental and argumentative.
+Why data science is considered the sexiest job in the 20th century, paying high salaries for skilled workers.
+
+
+Big Data refers to the dynamic, large and disparate volumes of data being created by people, 
+tools, and machines. 
+It requires new, innovative, and scalable technology to collect, host, and analytically process the vast 
+amount of data gathered in order to derive real-time business insights that relate to consumers, risk, profit, performance, productivity management, and enhanced shareholder value.”
+
